@@ -90,3 +90,12 @@ header{
     }
 }
 
+@media (max-width: 412px) {
+    header{
+        background-color: green;
+        ul{
+            display: none;
+        }
+    }
+}
+

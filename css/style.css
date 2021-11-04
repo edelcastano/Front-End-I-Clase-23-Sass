@@ -78,5 +78,13 @@ header ul i {
     display: none;
   }
 }
+@media (max-width: 412px) {
+  header {
+    background-color: green;
+  }
+  header ul {
+    display: none;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
